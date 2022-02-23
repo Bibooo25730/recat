@@ -9,7 +9,8 @@
 
 > 项目介绍<br/>
 
-前端：React   后端：Node  数据库：mongdb 
+前端：React路由6版本   后端：Node  数据库：mongdb 使用nodemailer邮箱处理,jsonwebtoken登录jwt令牌,crypto-js密码加密处理,
+recat recep-show 展示主要使用类 back-network 后台主要使用 Hooks函数组件
 
 ## 业务理解
 
@@ -142,7 +143,11 @@ Administrator 分 tourist  当然只有一个管理员,后台和前台都有注�
 
 > 管理员账户
 
-<img src = 'https://s3.bmp.ovh/imgs/2022/02/0009b47869aff1a0.jpg' />
+<img src = 'https://s3.bmp.ovh/imgs/2022/02/ed0388986f9a815c.png' />
+
+> echarts数据可视化只有电影分类做了接口,其他两个是本地的
+> 增删改查电影资源列表
+> 登录退出
 
 
 
