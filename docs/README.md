@@ -119,7 +119,7 @@ Administrator 分 tourist  当然只有一个管理员,后台和前台都有注�
 ```
 
 
-## 前台展示
+## 前台展示RECEP-SHOW
 <img src = 'https://s3.bmp.ovh/imgs/2022/02/38c863a46f645b65.png' />  <img src = 'https://s3.bmp.ovh/imgs/2022/02/d1482659a975cfe6.png' />
 
 > 登录注册 邮箱验证码验证
@@ -135,3 +135,14 @@ Administrator 分 tourist  当然只有一个管理员,后台和前台都有注�
 <img src = 'https://s3.bmp.ovh/imgs/2022/02/d3a075d84add4aa7.png' />
 
 > 管理员对用户的反馈的回复,和发帖的回复
+
+# 后台展示BACK-NETWORK
+
+<img src = 'https://s3.bmp.ovh/imgs/2022/02/01d5fe7bb1f52a80.png' />
+
+> 管理员账户
+
+<img src = 'https://s3.bmp.ovh/imgs/2022/02/0009b47869aff1a0.jpg' />
+
+
+
