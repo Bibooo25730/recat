@@ -1,0 +1,27 @@
+const mongoose = require("./db");
+const Smear = new mongoose.Schema({
+    name: {
+        type:String
+    },
+    title: {
+        type: String,
+    },
+    value: {
+        type:String,
+    },
+
+    data: {
+        type: Object,
+        default:Math.floor(Date.now())
+    },
+    // 是否有子评论
+    isShow: {
+        type: Boolean,
+        default:false
+    },
+    // 子评论
+    reply: {
+        type:Array
+    }
+})
+module.exports = Smer = mongoose.model("smear", Smear);

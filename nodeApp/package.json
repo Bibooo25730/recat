@@ -1,0 +1,25 @@
+{
+  "name": "movie_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.7",
+    "nodemailer": "^6.7.2",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "uuid": "^8.3.2",
+    "websocket": "^1.0.34",
+    "ws": "^8.4.2"
+  }
+}

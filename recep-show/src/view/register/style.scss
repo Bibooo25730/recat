@@ -1,0 +1,176 @@
+.register-mobile{
+    width: 100%;
+    height: 100%;
+    background-color: #F4F6F9;
+    .submit{
+        width: 100%;
+        background-color: #007bff;
+        height: 30px;
+        border-radius: 5px;
+    }
+    h4{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: #6777ef;
+        font-size: 20px;
+    }
+    img{
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 20%;
+        cursor: pointer;
+    }
+    .register-cart{
+        width: 80%;
+        padding: 10px;
+        margin-left: 5%;
+        margin-top: 10%;
+        border-top: 2px solid #6777ef;
+        background-color: #fff;
+    }
+    .register{
+        border-top: 1px dashed #ccc;
+        label{
+            font-weight: bolder;
+            line-height: 30px;
+        }
+        input{
+            width: 100%;
+           height: 30px;
+            border: 1px solid #e4e6fc;
+            border-radius: 5px;
+            
+        }
+        input:focus{
+            outline: none;
+            border: 1px solid #007bff;
+        }
+        .submit{
+            width: 100%;
+            background-color: #007bff;
+            height: 30px;
+            border-radius: 5px;
+        }
+       .code{
+           display: flex;
+           margin-top: 10px;
+           align-items: center;
+         
+           input{
+              
+               flex: 1;
+           }
+           button{
+               width: 10%;
+               height: 30px;
+               border-radius: 5px;
+               background-color: #007bff ;
+           }
+       }
+       .serve{
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           input{
+               width: 5%;
+               height: 30px;
+               border: none;
+           }
+       }
+    }
+}
+.register-pc{
+    width: 100%;
+    height: 100%;
+    background-color: #F4F6F9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h4{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: #6777ef;
+        font-size: 20px;
+    }
+    img{
+        width: 15%;
+        cursor: pointer;
+    }
+    .register-cart{
+        width: 60%;
+        padding: 10px;
+        margin-left: 5%;
+        margin-top: 2%;
+        border-top: 2px solid #6777ef;
+        background-color: #fff;
+    }
+    .register{
+        border-top: 1px dashed #ccc;
+       .cartInp{
+           display: flex;
+           align-items: center;
+           flex-wrap: wrap;
+           .name{
+              
+               flex: 0 0 50%;
+           }
+           .email{
+               width: 50%;
+           }
+           .code{
+               width: 50%;
+           }
+           .pass{
+               width: 50%;
+           }
+           input{
+
+            width: 97%;
+            height: 30px;
+            border: 1px solid #e4e6fc;
+            border-radius: 5px;
+            
+        }
+       }
+        label{
+            font-weight: bolder;
+            line-height: 30px;
+        }
+       
+        input:focus{
+            outline: none;
+            border: 1px solid #007bff;
+        }
+       
+       .code{
+         position: relative;
+         
+          
+           button{
+               position: absolute;
+               right: 12px;
+               top: 31px;
+               width: 10%;
+              height: 33px;
+               background-color: #007bff ;
+           }
+       }
+       
+       .serve{
+           display: flex;
+           align-items: center;
+           
+           input{
+               width: 15px;
+               height: 15px;
+               border: none;
+           }
+       }
+    }
+    .submit{
+        width: 100%;
+        background-color: #007bff;
+        height: 30px;
+        border-radius: 5px;
+    }
+}

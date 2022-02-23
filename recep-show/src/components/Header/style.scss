@@ -1,0 +1,65 @@
+.header{
+    height: 10%;
+    padding: 10px;
+    background-color: #3189D3;
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.prop{
+    background: url("./cropped-1440-900-671032.jpg")left;
+    opacity: 0.9;
+    .prop-Container{
+        margin-left: 10px;
+        margin-top: 10px;
+        .uls{
+            display: flex;
+            flex-direction: column;
+            margin-top: 10px;
+            li{
+                width: 100%;
+                line-height: 35px;
+                .fontsize{
+                    color: #B18BAD;
+                }
+                .fontsize1{
+                    color: #C8A642;
+                }
+                .fontsize2{
+                    color: #608DEF;
+                }
+                .fontsize3{
+                    color: #CDA25F;
+                }
+                .icon{
+                    font-size: 20px;
+                }
+               
+            }
+            .text{
+                width:100%;
+                background-color: #fff;
+                display: flex;
+                align-items: center;
+                justify-content:space-around;
+              button{
+                 margin-left: 23%;
+                 margin-bottom: 2px;
+              }
+            }
+            .name{
+                font-size: 15px;
+                line-height: 20px;
+            }
+            textarea{
+                background-color: #fff;
+               
+            }
+            .adm-text-area-count{
+                background-color: #fff;
+            }
+        }
+    }
+}

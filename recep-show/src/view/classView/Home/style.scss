@@ -1,0 +1,36 @@
+.home{
+    width: 100%;
+    height: 100%;
+    position: relative;
+   .fiyss{
+      position: absolute;
+      width: 100%;
+      top: 55%;
+      text-align: center;
+      .line{
+        color: rgb(228, 24, 24);
+        font-size: 10px;
+      }
+      .line::after,.line::before{
+        background: #eee;
+        content: "";
+        height: 2px;
+        position: absolute;
+        top: 50%;
+        /* 左右横线的宽度 = 页面总宽度的一版 - 文字宽度的一半  */
+        width: 30%;
+      }
+      .line::after{
+       right: 10%;
+      }
+      .line::before{
+          left: 10%;
+      }
+   }
+   .grid{
+       margin-top: 15%;
+       font-size: 20px;
+       color:chocolate;
+       text-align: left;
+   }
+}
