@@ -1,10 +1,13 @@
 # Bibooo网盘资源
 
+# 测试
+<a href="http://www.bibooo.icu/>后台管理</a>
+<a href="http://www.bibooo.vip/>前台展示 手机端访问</a>
+
 > 网站资源皆来自互联网,本为测试用途 如果侵权联系qq:951225758 下架<br/>
 > 本网站图片，文字之类版权申明，本网站无法鉴别所上传图片或文字的知识版权，如果侵犯，请及时通知我们，本网站将在第一时间及时删除。<br/>
 > 凡以任何方式登录本网站或直接、间接使用本网站资料者，视为自愿接受本网站声明的约束。
-> <a href="http://www.bibooo.icu/>后台管理</a>
-> <a href="http://www.bibooo.vip/>前台展示 手机端访问</a>
+
 
 ## 项目文档
  <a href="https://github.com/alin25730"><img src="https://github.githubassets.com/images/icons/emoji/memo.png" class="emoji" >Github</a> 
