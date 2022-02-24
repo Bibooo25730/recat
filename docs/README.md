@@ -1,8 +1,9 @@
 # Bibooo网盘资源
 
-# 测试
-<a href="http://www.bibooo.icu/>后台管理</a>
-<a href="http://www.bibooo.vip/>前台展示 手机端访问</a>
+# 测试网址
+
+<a href="http://www.bibooo.icu/">后台管理</a>
+<a href="http://www.bibooo.vip/">前台展示(手机端访问）</a>
 
 > 网站资源皆来自互联网,本为测试用途 如果侵权联系qq:951225758 下架<br/>
 > 本网站图片，文字之类版权申明，本网站无法鉴别所上传图片或文字的知识版权，如果侵犯，请及时通知我们，本网站将在第一时间及时删除。<br/>
